@@ -1,0 +1,4 @@
+.virtualenv/
+venv/
+visited.txt
+data.txt
